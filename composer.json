@@ -1,8 +1,12 @@
 {
-    "name": "webgriffe/sylius-back-in-stock-notification-plugin",
+    "name": "arobases-sylius-public/sylius-back-in-stock-notification-plugin",
     "type": "sylius-plugin",
-    "keywords": ["sylius", "sylius-plugin"],
     "description": "Timely inform customers and guest visitors when a product return in stock",
+    "keywords": [
+        "sylius",
+        "sylius-plugin",
+        "arobases-sylius-plugin"
+    ],
     "license": "MIT",
     "require": {
         "php": "^7.3",
